@@ -17,7 +17,4 @@
 AN E-commerce proyect for Iniciatec Bootcamp where our team will be developing in HTML5, CSS3, JavaScript and (FrameWorks)
 
 ## Our Team
-| [<img src="https://avatars.githubusercontent.com/u/90355395?v=4" width=115><br><sub>Nombre</sub>](https://github.com/DaiM24) 
-| [<img src="https://avatars.githubusercontent.com/u/47448020?v=4" width=115><br><sub>Nombre</sub>](https://github.com/Leandro97ramos)  
-| [<img src="https://avatars.githubusercontent.com/u/113393980?v=4" width=115><br><sub>Nombre</sub>](https://github.com/catasimonovich4)  
-| [<img src="https://avatars.githubusercontent.com/u/102679463?v=4" width=115><br><sub>Nombre</sub>](https://github.com/Axfroy)
+| [<img src="https://avatars.githubusercontent.com/u/90355395?v=4" width=115><br><sub>Nombre</sub>](https://github.com/DaiM24) | [<img src="https://avatars.githubusercontent.com/u/47448020?v=4" width=115><br><sub>Nombre</sub>](https://github.com/Leandro97ramos) | [<img src="https://avatars.githubusercontent.com/u/113393980?v=4" width=115><br><sub>Nombre</sub>](https://github.com/catasimonovich4) | [<img src="https://avatars.githubusercontent.com/u/102679463?v=4" width=115><br><sub>Nombre</sub>](https://github.com/Axfroy)
