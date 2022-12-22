@@ -14,7 +14,7 @@
 
 ## Description
 # iniciatec CheckPoint N2 - proyectName
-AN E-commerce proyect for Iniciatec Bootcamp where our team will be developing in HTML5, CSS3, JavaScript and (FrameWorks)
+AN E-commerce proyect for Iniciatec Bootcamp where our team will be developing in HTML5, CSS3, JavaScript and (FrameWorks), etc
 
 ## Our Team
 - Dai
